@@ -1,0 +1,15 @@
+.gradle
+/local.properties
+.idea/
+.DS_Store
+build/
+captures/
+*.iml
+
+# Android generated
+bin/
+gen/
+
+# Eclipse
+.settings/
+.classpath
